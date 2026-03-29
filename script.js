@@ -2,8 +2,8 @@
 const worksData = [
     {
         id: 1,
-        title: "向僵尸开炮-黄金矿勾",
-        bvid: "BV1cHw3zREzQ"
+        title: "23-25年买量作品合集",
+        bvid: "BV1S2X9BNEzB"
     },
     {
         id: 2,
