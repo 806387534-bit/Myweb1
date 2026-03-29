@@ -7,8 +7,8 @@ const worksData = [
     },
     {
         id: 2,
-        title: "向僵尸开炮-后退搜打撤",
-        bvid: "BV1XzwFzCEaH"
+        title: "向僵尸开炮-黄金矿勾",
+        bvid: "BV1cHw3zREzQ"
     },
     {
         id: 3,
